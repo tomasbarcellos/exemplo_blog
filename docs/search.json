@@ -18,7 +18,7 @@
     "href": "posts/exemplo-ti/index.html",
     "title": "Exemplo com R e python",
     "section": "",
-    "text": "A ideia é ter posts com código em R\n\nplot(AirPassengers)\n\n\n\n\nE também códigos em python\n\nprint(1 + 1)\n\n\n\n1"
+    "text": "A ideia é ter posts com código em R\n\nplot(AirPassengers)\n\n\n\n\nE também códigos em python\n\nprint(1 + 1)\n\n\n\n2"
   },
   {
     "objectID": "posts/post-with-code/index.html",
