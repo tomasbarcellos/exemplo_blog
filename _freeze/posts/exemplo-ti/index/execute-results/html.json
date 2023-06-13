@@ -1,0 +1,16 @@
+{
+  "hash": "864057d9a7a9079387d0c1abb5fbe15d",
+  "result": {
+    "markdown": "---\ntitle: \"Exemplo com R e python\"\nauthor: \"Tomás Barcellos\"\ndate: \"2023-06-12\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\n\nA ideia é ter posts com código em R\n\n\n::: {.cell}\n\n```{.r .cell-code}\nplot(AirPassengers)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n\nE também códigos em python\n\n\n::: {.cell}\n\n```{.python .cell-code}\nprint(1 + 1)\n```\n:::\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n1\n```\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
